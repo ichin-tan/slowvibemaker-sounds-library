@@ -1,28 +1,22 @@
 {
   "sounds": [
     {
-      "id": "1",
+      "id": "3",
       "name": "After The Lights Fade",
       "audio_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/After%20The%20Lights%20Fade/After%20The%20Lights%20Fade.mp3",
       "image_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/After%20The%20Lights%20Fade/ATLF.jpeg"
     },
     {
-      "id": "2", 
+      "id": "1", 
       "name": "Midnight Revisions",
       "audio_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Midnight%20Revisions/Midnight%20Revisions.mp3",
       "image_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Midnight%20Revisions/MR.jpeg"
     },
     {
-      "id": "3",
+      "id": "2",
       "name": "Still Breathing",
       "audio_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Still%20Breathing/Still%20Breathing.mp3",
       "image_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Still%20Breathing/SB.jpeg"
-    },
-    {
-      "id": "4", 
-      "name": "Resonance",
-      "audio_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Resonance/resonance.mp3",
-      "image_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Resonance/me.jpeg"
     }
   ]
 }
