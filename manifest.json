@@ -17,6 +17,12 @@
       "name": "Still Breathing",
       "audio_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Still%20Breathing/Still%20Breathing.mp3",
       "image_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Still%20Breathing/SB.jpeg"
+    },
+    {
+      "id": "4", 
+      "name": "Resonance",
+      "audio_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Resonance/Resonance.mp3",
+      "image_url": "https://raw.githubusercontent.com/ichin-tan/slowvibemaker-sounds-library/main/sounds/Resonance/me.jpeg"
     }
   ]
 }
